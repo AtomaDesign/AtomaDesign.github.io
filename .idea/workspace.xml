@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f70a9853-d50b-4e6b-acc7-b9f8179f776d" name="Default" comment="Updated Abel">
+    <list default="true" id="f70a9853-d50b-4e6b-acc7-b9f8179f776d" name="Default" comment="Fixed Again">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="53" column="220" lean-forward="false" selection-start-line="53" selection-start-column="220" selection-end-line="53" selection-end-column="220" />
+            <state relative-caret-position="4160">
+              <caret line="104" column="50" lean-forward="false" selection-start-line="104" selection-start-column="50" selection-end-line="104" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -242,7 +242,7 @@
       <workItem from="1494552021467" duration="2643000" />
       <workItem from="1495728772213" duration="7432000" />
       <workItem from="1495751960373" duration="519000" />
-      <workItem from="1495753358917" duration="1726000" />
+      <workItem from="1495753358917" duration="2433000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Abel">
       <created>1495753574424</created>
@@ -258,11 +258,25 @@
       <option name="project" value="LOCAL" />
       <updated>1495755042021</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fixed Again">
+      <created>1495755103154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1495755103154</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated Manuel">
+      <created>1495755962552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1495755962552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12320000" />
+    <option name="totallyTimeSpent" value="13027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="35" width="1942" height="1056" extended-state="6" />
@@ -299,7 +313,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Abel" />
     <MESSAGE value="Updated Some Team Members" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Some Team Members" />
+    <MESSAGE value="Fixed Again" />
+    <MESSAGE value="Updated Manuel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Manuel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -443,8 +459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="53" column="220" lean-forward="false" selection-start-line="53" selection-start-column="220" selection-end-line="53" selection-end-column="220" />
+        <state relative-caret-position="4160">
+          <caret line="104" column="50" lean-forward="false" selection-start-line="104" selection-start-column="50" selection-end-line="104" selection-end-column="50" />
           <folding />
         </state>
       </provider>
