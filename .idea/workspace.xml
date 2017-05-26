@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f70a9853-d50b-4e6b-acc7-b9f8179f776d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/atomaLOGO.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+              <caret line="39" column="69" lean-forward="false" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -258,7 +257,7 @@
       <workItem from="1495728772213" duration="7432000" />
       <workItem from="1495751960373" duration="519000" />
       <workItem from="1495753358917" duration="3047000" />
-      <workItem from="1495766524153" duration="828000" />
+      <workItem from="1495766524153" duration="891000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Abel">
       <created>1495753574424</created>
@@ -316,11 +315,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495767079135</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added LOGO">
+      <created>1495767367755</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1495767367755</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14469000" />
+    <option name="totallyTimeSpent" value="14532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="35" width="1942" height="1056" extended-state="6" />
@@ -361,7 +367,8 @@
     <MESSAGE value="Updated Manuel" />
     <MESSAGE value="Updated Names" />
     <MESSAGE value="FIXED links" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIXED links" />
+    <MESSAGE value="added LOGO" />
+    <option name="LAST_COMMIT_MESSAGE" value="added LOGO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -532,7 +539,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+          <caret line="39" column="69" lean-forward="false" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
           <folding />
         </state>
       </provider>
