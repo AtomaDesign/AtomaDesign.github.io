@@ -48,8 +48,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="69" column="169" lean-forward="false" selection-start-line="69" selection-start-column="169" selection-end-line="69" selection-end-column="169" />
+            <state relative-caret-position="240">
+              <caret line="53" column="97" lean-forward="false" selection-start-line="53" selection-start-column="97" selection-end-line="53" selection-end-column="97" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -318,7 +318,7 @@
       <workItem from="1495766524153" duration="2234000" />
       <workItem from="1496197999022" duration="468000" />
       <workItem from="1496370491908" duration="1623000" />
-      <workItem from="1496375731699" duration="251000" />
+      <workItem from="1496375731699" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Abel">
       <created>1495753574424</created>
@@ -418,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496371493821</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fixed site">
+      <created>1496375991293</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1496375991294</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18217000" />
+    <option name="totallyTimeSpent" value="18304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="35" width="1934" height="1056" extended-state="0" />
@@ -745,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="69" column="169" lean-forward="false" selection-start-line="69" selection-start-column="169" selection-end-line="69" selection-end-column="169" />
+        <state relative-caret-position="240">
+          <caret line="53" column="97" lean-forward="false" selection-start-line="53" selection-start-column="97" selection-end-line="53" selection-end-column="97" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
